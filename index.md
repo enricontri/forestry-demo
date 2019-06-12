@@ -15,10 +15,10 @@ services:
   heading: Resources
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: It Takes a System to Save a Life
-textline: |
+textline: |-
   Belkirk College of Engineering
 
-  Ora et Labora
+  Custom text
 hero_button:
   text: Learn more
   href: "/about"
