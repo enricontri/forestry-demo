@@ -11,9 +11,8 @@ services:
 - description: Learn how to host an ERA event
   heading: Host an ERA
   icon: "/uploads/2019/06/12/eraSlide.png"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
+- description: Start learning something
+  heading: Resources
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: It Takes a System to Save a Life
 textline: |
