@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2019/06/12/wide-cpr-training.jpg"
 layout: landing-page
 heading: European Resuscitation Academy
 partners:
