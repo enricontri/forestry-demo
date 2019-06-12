@@ -15,10 +15,7 @@ services:
   heading: Resources
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: It Takes a System to Save a Life
-textline: |-
-  Belkirk College of Engineering
-
-  Custom text
+textline: European Resuscitation Academy
 hero_button:
   text: Learn more
   href: "/about"
